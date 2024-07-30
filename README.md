@@ -149,6 +149,5 @@ void loop()
 }```
 
 Click on start Simulation if you change the light indicator on the Photoresistor, the osoloscope will show a signal for the analog input
-![output](https://github.com/user-attachments/assets/7e29f9a8-0e4c-457e-81e3-d124112dd693)
 
 
