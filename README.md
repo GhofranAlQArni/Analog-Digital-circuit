@@ -28,6 +28,15 @@ vii. LED
 Connect the circuit as shown below:
 Analog circuit
 
+
+
+![Analog circuit](https://github.com/user-attachments/assets/297726d8-d1a1-4c81-ab91-088bb0f8c635)
+
+
+
+
+
+
 use the following code to simulate the Analog input arduino circuit:
 // Initialisation 
 ```
@@ -77,7 +86,13 @@ void loop() {
 Click on start Simulation if you change the light indicator on the Photoresistor, the osoloscope will show a signal for the analog input.
 
 
+![output](https://github.com/user-attachments/assets/6c0c8c50-16bc-409d-b039-84463588f634)
+
+
+
 Task 2: Building an arduino circuit for Digital input (Push button)
+
+
 
 Building the Arduino circuit with digital input
 
@@ -99,6 +114,11 @@ vi. LED
 
 Connect the circuit as shown below:
 Copy of Blink and Read Digital Signal
+
+
+![Digital circuit push button](https://github.com/user-attachments/assets/ed4a63c5-3fcb-426e-931d-0c4236a5b0bf)
+
+
 
 use the following code to simulate the Analog input arduino circuit:
 // C++ code
@@ -129,3 +149,6 @@ void loop()
 }```
 
 Click on start Simulation if you change the light indicator on the Photoresistor, the osoloscope will show a signal for the analog input
+![output](https://github.com/user-attachments/assets/7e29f9a8-0e4c-457e-81e3-d124112dd693)
+
+
